@@ -2,3 +2,14 @@ c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.
 c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\Övning4.AssemblyInfoInputs.cache
 c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\Övning4.AssemblyInfo.cs
 c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\Övning4.csproj.CoreCompileInputs.cache
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\bin\Debug\net8.0\Övning4.exe
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\bin\Debug\net8.0\Övning4.deps.json
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\bin\Debug\net8.0\Övning4.runtimeconfig.json
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\bin\Debug\net8.0\Övning4.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\bin\Debug\net8.0\Övning4.pdb
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\Övning4.sourcelink.json
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\Övning4.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\refint\Övning4.dll
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\Övning4.pdb
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\Övning4.genruntimeconfig.cache
+c:\Users\leo.sundberg1\Documents\Programming 2\Övning4\Övning4\obj\Debug\net8.0\ref\Övning4.dll
