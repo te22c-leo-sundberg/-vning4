@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Övning4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d48b526a7c1e63cf6e39e5c9f2c2ae0b6f8bc538")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6041d6cc9b8d49272e0bd95cc37a9bdf255c299a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Övning4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Övning4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
